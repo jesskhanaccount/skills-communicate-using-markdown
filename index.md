@@ -4,3 +4,5 @@
 #### This is Header 4
 ##### This is Header 5
 ###### This is Header 6
+# This is Yoko Cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
