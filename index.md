@@ -9,3 +9,5 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish my profile
+- [ ] Introduce myself to the world
